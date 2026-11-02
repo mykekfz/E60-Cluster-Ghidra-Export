@@ -1,22 +1,16 @@
 BMW E60 KOMBI6 – Firmware Reverse Engineering
 
-This is an independent reverse-engineering project documenting research into the BMW E60 KOMBI6 instrument cluster.
+This is an independent hobby project documenting the reverse engineering of the BMW E60 KOMBI6 instrument cluster.
 
-The analysis is based on the Siemens-VDO firmware file 7842584A.0pa and covers firmware structure, processor architecture, memory mapping, display data and CAN communication.
+The research is based on the Siemens-VDO firmware 7842584A.0pa and covers firmware structure, processor architecture, memory mapping, display data and CAN communication.
 
 Disclaimer
 
-This project is provided for educational, research and interoperability purposes only.
+This is an independent hobby project for educational and research purposes. It is not affiliated with or endorsed by BMW AG or Siemens VDO.
 
-It is an independent project and is not affiliated with, endorsed by or associated with BMW AG, Siemens VDO or their subsidiaries.
+All trademarks belong to their respective owners. Information is provided as-is, and any use is at your own risk.
 
-All trademarks, product names and references belong to their respective owners.
-
-No warranty is provided regarding the accuracy, completeness or suitability of the information published here. The material is provided "as is".
-
-The project does not provide modified commercial firmware for vehicle use. Any experimentation is undertaken at the user's own risk. The author accepts no responsibility for damage to vehicles, electronic components, equipment or other property resulting from the use of this information.
-
-Readers are responsible for ensuring that their activities comply with applicable laws, intellectual property rights and vehicle safety regulations.
+No original firmware or proprietary files are intentionally distributed.
 
 Firmware Information
 Cluster: BMW E60 KOMBI6
@@ -83,8 +77,8 @@ Battery voltage and fuel level are handled through internal cluster hardware inp
 
 Project Status
 
-The firmware has been extracted and analyzed, with substantial progress on instruction decoding, memory mapping and display-related functions.
+The firmware has been extracted and analyzed, with progress on instruction decoding, memory mapping and display-related functions.
 
 Further work will focus on understanding the display system, identifying additional RAM variables and documenting the remaining firmware structures.
 
-This project is a work in progress. Findings are published for technical documentation and research purposes.
+This project is a work in progress.
